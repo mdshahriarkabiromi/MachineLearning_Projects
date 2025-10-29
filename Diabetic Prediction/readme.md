@@ -46,14 +46,14 @@ The dataset typically includes features such as:
 Install dependencies using pip:
 ```bash
 pip install numpy pandas scikit-learn matplotlib seaborn
+```
 
-
-How to Use
+## How to Use
 Clone the repository or download the project files.
 
 Ensure you have the required libraries installed.
 
 Run the Jupyter Notebook (e.g., diabetes_prediction.ipynb) or Python script to see the data processing, model training, and evaluation steps.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
