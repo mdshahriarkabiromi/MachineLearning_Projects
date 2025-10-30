@@ -39,7 +39,7 @@ To run this project, you will need Python and the following libraries:
 You can install these dependencies using `pip`:
 ```bash
 pip install numpy pandas scikit-learn
-
+```
 How to Use
 Ensure you have the required libraries installed.
 
